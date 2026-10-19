@@ -1,11 +1,19 @@
-18ai Website — Final HD Version
+# 18ai — Business AI Website V5
 
-This final package follows the approved structure and upgrades the image set to higher-definition artwork.
+Open `index.html` locally. No paid builder, local server or API key is needed for the static experience.
 
-Open index.html in a browser to view the site locally.
+## Added
+- Industry AI solutions: Software, Banking, Health & Wellness (interactive tabs)
+- Explainable AI anatomy with five selectable architecture layers
+- Generic eight-concept product portfolio, filterable by audience
+- Research & Insights: GenAI, Agentic AI, Context/RAG, AGI, Multimodal, Trustworthy AI
+- Discovery-to-scale commercial engagement process
+- Industry AI Solutions Overview PDF under program-kits/
+- Preserved the approved HD page sections and the six program kits from V4
 
-Main updates:
-- higher-definition hero and section artwork
-- improved labs, media and vision backgrounds
-- same approved site structure retained
-- contact details included: hi@18ai.in, +91 89830 89318
+## Publishing gates
+- Update social links in config.js with official URLs. Current links are search destinations, not verified profiles.
+- Contact form opens an email program; connect backend and privacy consent before publishing as a live enquiry form.
+- Replace proposed solution names and product status after verifying IP ownership and customer approvals.
+- No enterprise client outcomes or health treatment claims are asserted.
+- Review legal/privacy content and healthcare safeguards before launch.
